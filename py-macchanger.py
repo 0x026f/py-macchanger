@@ -6,7 +6,7 @@ This tool change your mac until you restart your pc or get it back in other way
 
 #author peleon02 aka kpg_02
 #date 2018-09-13
-#version 1.01
+#version 1.1
 #Tested in python 3.x
 
 LICENSE:
@@ -95,7 +95,7 @@ def main():
     if (args.about is True):  # Check if the -a/--about argument is passed
         print('[*] Hi, I´m peleon02 aka kpg_02,' +
               'the developer of this tool')
-        print('[*] Version 1.01, it was devoloped for python 3')
+        print('[*] Version 1.1, it was devoloped for python 3')
         print('[*] Any suggestion for more tools' +
               'written in python are welcome')
     elif (args.random is True and args.interface is not None):

@@ -1,7 +1,7 @@
 # py-macchanger
-<a href="https://docs.python-guide.org/starting/install3/linux/" target="\_blank"><img src="https://images-na.ssl-images-amazon.com/images/I/61SA0Wq1P1L.png" width="80"> </a>
+<a href="https://docs.python-guide.org/starting/install3/linux/" target="blank"><img src="https://images-na.ssl-images-amazon.com/images/I/61SA0Wq1P1L.png" width="80"> </a>
 
-### Features Version 1.01
+### Features Version 1.1
 - Python 3
 - Linux only (at the moment)
 - super user needed
